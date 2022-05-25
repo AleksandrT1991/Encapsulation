@@ -7,11 +7,11 @@ public class Main {
 
 
     public static void main(String[] args) {
-        GriffindorStudent harry = new GriffindorStudent("Ãàğğè Ïîòòåğ", generate(), generate(), generate(), generate(), generate());
-        GriffindorStudent ron = new GriffindorStudent("Ğîí Óèçëè", generate(), generate(), generate(), generate(), generate());
-        RavenclawStudent luna = new RavenclawStudent("Ïîëóìíà Ëàâãóò", generate(), generate(), generate(), generate(), generate(), generate());
-        SlytherinStudent draco = new SlytherinStudent("Äğàêî Ìàëôîé", generate(), generate(), generate(), generate(), generate(), generate(), generate());
-        HufflepuffStudent sedric = new HufflepuffStudent("Ñåäğèê Äèããîğè", generate(), generate(), generate(), generate(), generate());
+        GriffindorStudent harry = new GriffindorStudent("Ğ“Ğ°Ñ€Ñ€Ğ¸ ĞŸĞ¾Ñ‚Ñ‚ĞµÑ€", generate(), generate(), generate(), generate(), generate());
+        GriffindorStudent ron = new GriffindorStudent("Ğ Ğ¾Ğ½ Ğ£Ğ¸Ğ·Ğ»Ğ¸", generate(), generate(), generate(), generate(), generate());
+        RavenclawStudent luna = new RavenclawStudent("ĞŸĞ¾Ğ»ÑƒĞ¼Ğ½Ğ° Ğ›Ğ°Ğ²Ğ³ÑƒÑ‚", generate(), generate(), generate(), generate(), generate(), generate());
+        SlytherinStudent draco = new SlytherinStudent("Ğ”Ñ€Ğ°ĞºĞ¾ ĞœĞ°Ğ»Ñ„Ğ¾Ğ¹", generate(), generate(), generate(), generate(), generate(), generate(), generate());
+        HufflepuffStudent sedric = new HufflepuffStudent("Ğ¡ĞµĞ´Ñ€Ğ¸Ğº Ğ”Ğ¸Ğ³Ğ³Ğ¾Ñ€Ğ¸", generate(), generate(), generate(), generate(), generate());
 
         System.out.println(harry);
         System.out.println(ron);
